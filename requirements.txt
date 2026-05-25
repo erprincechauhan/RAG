@@ -1,0 +1,11 @@
+gradio>=5.0
+openai-whisper
+sentence-transformers
+faiss-cpu
+scenedetect[opencv]
+opencv-python-headless
+Pillow
+numpy
+torch
+torchaudio
+google-genai

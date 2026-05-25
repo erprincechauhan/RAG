@@ -1,0 +1,10 @@
+{
+    "gemini_api_key": "",
+    "whisper_model": "base",
+    "clip_model": "sentence-transformers/clip-ViT-B-32",
+    "text_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "scene_threshold": 27.0,
+    "max_clip_duration": 60,
+    "clip_padding_seconds": 3,
+    "top_k_results": 5
+}
